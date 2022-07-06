@@ -1,4 +1,4 @@
-alert("css is connected");
+window.alert("JS is connected");
 
 
 
